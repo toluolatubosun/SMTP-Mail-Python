@@ -20,9 +20,9 @@ OR
 <br>
 
 FOR SERVER WEBMAIL
-> Register a new webmail on cpanel or hosting server.<br> I recommend <br> mail@sitename.siteextension <br> or mail@subdomain.sitename.siteextension
+> Register a new webmail on cpanel or hosting server.<br> I recommend mail@sitename.siteextension
 
-> Replace smtp.gmail.com with <br> mail.sitename.siteextension or mail.subdomain.sitename.siteextension
+> Replace smtp.gmail.com with mail.sitename.siteextension 
 
 > Get the port number for the email and update that in the code
 
