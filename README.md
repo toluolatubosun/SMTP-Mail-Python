@@ -1,11 +1,13 @@
-#SMTP mail with pyhton
+# SMTP mail with pyhton
 
-<br>
+![Python](https://www.python.org/static/img/python-logo.png)
+
+## SETUP
 
 FOR GMAIL
 > [Allow less secure Apps](https://myaccount.google.com/lesssecureapps)
 
-> Now you can now use your gmail password
+> Now update the code with your email and password
 
 OR
 
@@ -13,15 +15,15 @@ OR
 
 > [Create a Goolge Apps Password](https://myaccount.google.com/apppasswords) - Remember to select Mail
 
-> Now you can now the your custom generated password
+> Now Update the code with your email and custom generated password
 
 <br>
 
 FOR SERVER WEBMAIL
-> Register a new webmail on cpanel or hosting server.<br> I recommend mail@sitename.siteextension or mail@subdomain.sitename.siteextension
+> Register a new webmail on cpanel or hosting server.<br> I recommend <br> mail@sitename.siteextension <br> or mail@subdomain.sitename.siteextension
 
-> Replace smtp.gmail.com with <br> mail.sitename.siteextension or mail.subdomain.sitenmae.siteextension
+> Replace smtp.gmail.com with <br> mail.sitename.siteextension or mail.subdomain.sitename.siteextension
 
 > Get the port number for the email and update that in the code
 
-> Now can use the webmail email and password
+> Update email and password in the code
